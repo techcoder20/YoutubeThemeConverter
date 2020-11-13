@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=chromium-browser https://discord.gg/bhNYyT99g7
+Name=JoinMyDiscord
+Icon=/home/pi/.YoutubeThemeConverter/assets/Icons/JoinMyDiscord.png
