@@ -3,7 +3,7 @@
 ![screenshot](https://raw.githubusercontent.com/techcoder20/YoutubeThemeConverter/main/Screenshot.png)
 
 
-This is a bash script that will make your plain Raspberry Pi OS LXDE desktop look similar to RCC OS  
+This is a bash script that will give your raspberry pi a cool youtube theme
 
 Instructions:  
 
